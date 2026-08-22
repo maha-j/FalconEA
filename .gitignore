@@ -1,0 +1,16 @@
+# Fichiers compiles MQL5
+*.ex5
+*.ex4
+
+# Rapports et caches MetaTrader
+*.htm
+*.html
+*.opt
+*.set
+Tester/
+Logs/
+
+# Systemes
+.DS_Store
+Thumbs.db
+desktop.ini
